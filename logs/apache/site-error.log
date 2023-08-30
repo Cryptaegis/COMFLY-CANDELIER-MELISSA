@@ -1,0 +1,59 @@
+[Wed Aug 09 08:35:59.008171 2023] [fcgid:warn] [pid 17852:tid 1384] [client ::1:62215] mod_fcgid: read timeout from pipe, referer: http://localhost:10004/wp-admin/
+[Wed Aug 09 08:35:59.008536 2023] [core:error] [pid 17852:tid 1384] [client ::1:62215] End of script output before headers: admin-ajax.php, referer: http://localhost:10004/wp-admin/
+[Wed Aug 09 08:37:16.389487 2023] [fcgid:warn] [pid 17852:tid 1376] [client ::1:62532] mod_fcgid: read timeout from pipe, referer: http://localhost:10004/wp-admin/update-core.php
+[Wed Aug 09 08:37:16.389487 2023] [fcgid:warn] [pid 17852:tid 1376] (138)timed out: [client ::1:62532] mod_fcgid: ap_pass_brigade failed in handle_request_ipc function, referer: http://localhost:10004/wp-admin/update-core.php
+[Fri Aug 11 13:36:43.268964 2023] [fcgid:warn] [pid 7688:tid 1376] [client ::1:51803] mod_fcgid: read timeout from pipe
+[Fri Aug 11 13:36:43.269966 2023] [core:error] [pid 7688:tid 1376] [client ::1:51803] End of script output before headers: index.php
+[Wed Aug 16 16:06:46.079593 2023] [fcgid:warn] [pid 76:tid 1360] [client ::1:64286] mod_fcgid: read timeout from pipe, referer: http://localhost:10004/wp-admin/post.php?post=43&action=edit
+[Wed Aug 16 16:06:46.079593 2023] [core:error] [pid 76:tid 1360] [client ::1:64286] End of script output before headers: admin-ajax.php, referer: http://localhost:10004/wp-admin/post.php?post=43&action=edit
+[Thu Aug 17 16:56:43.066987 2023] [fcgid:warn] [pid 16940:tid 1364] [client ::1:58216] mod_fcgid: read timeout from pipe
+[Thu Aug 17 16:56:43.066987 2023] [core:error] [pid 16940:tid 1364] [client ::1:58216] End of script output before headers: wp-cron.php
+[Wed Aug 23 14:47:32.778981 2023] [fcgid:warn] [pid 16940:tid 1364] [client ::1:54745] mod_fcgid: read timeout from pipe, referer: http://localhost:10004/wp-admin/post.php?post=2&action=elementor
+[Wed Aug 23 14:47:32.779094 2023] [core:error] [pid 16940:tid 1364] [client ::1:54745] End of script output before headers: admin-ajax.php, referer: http://localhost:10004/wp-admin/post.php?post=2&action=elementor
+[Wed Aug 23 16:22:34.938069 2023] [fcgid:warn] [pid 16940:tid 1360] [client ::1:51067] mod_fcgid: read timeout from pipe, referer: http://localhost:10004/wp-admin/post.php?post=38&action=elementor
+[Wed Aug 23 16:22:34.938069 2023] [core:error] [pid 16940:tid 1360] [client ::1:51067] End of script output before headers: admin-ajax.php, referer: http://localhost:10004/wp-admin/post.php?post=38&action=elementor
+[Wed Aug 23 16:51:24.241008 2023] [fcgid:warn] [pid 16940:tid 1364] [client ::1:52330] mod_fcgid: read timeout from pipe
+[Wed Aug 23 16:51:24.241008 2023] [core:error] [pid 16940:tid 1364] [client ::1:52330] End of script output before headers: wp-cron.php
+[Fri Aug 25 07:43:47.408044 2023] [fcgid:warn] [pid 14816:tid 1344] [client ::1:54721] mod_fcgid: read timeout from pipe, referer: http://localhost:10004/wp-admin/nav-menus.php?menu=5
+[Fri Aug 25 07:43:47.409005 2023] [core:error] [pid 14816:tid 1344] [client ::1:54721] End of script output before headers: admin-ajax.php, referer: http://localhost:10004/wp-admin/nav-menus.php?menu=5
+[Tue Aug 29 09:48:35.492294 2023] [fcgid:warn] [pid 21316:tid 1364] [client ::1:57073] mod_fcgid: read timeout from pipe
+[Tue Aug 29 09:48:35.493245 2023] [core:error] [pid 21316:tid 1364] [client ::1:57073] End of script output before headers: wp-cron.php
+[Tue Aug 29 09:48:35.508255 2023] [fcgid:warn] [pid 21316:tid 1356] [client ::1:57075] mod_fcgid: read timeout from pipe
+[Tue Aug 29 09:48:35.508255 2023] [core:error] [pid 21316:tid 1356] [client ::1:57075] End of script output before headers: wp-cron.php
+[Tue Aug 29 09:48:35.524294 2023] [fcgid:warn] [pid 21316:tid 1360] [client ::1:57074] mod_fcgid: read timeout from pipe
+[Tue Aug 29 09:48:35.524294 2023] [core:error] [pid 21316:tid 1360] [client ::1:57074] End of script output before headers: wp-cron.php
+[Tue Aug 29 09:48:35.540263 2023] [fcgid:warn] [pid 21316:tid 1352] [client ::1:57076] mod_fcgid: read timeout from pipe
+[Tue Aug 29 09:48:35.540263 2023] [core:error] [pid 21316:tid 1352] [client ::1:57076] End of script output before headers: wp-cron.php
+[Tue Aug 29 09:48:59.405373 2023] [fcgid:warn] [pid 21316:tid 1348] [client ::1:57199] mod_fcgid: read timeout from pipe
+[Tue Aug 29 09:48:59.405373 2023] [core:error] [pid 21316:tid 1348] [client ::1:57199] End of script output before headers: index.php
+[Tue Aug 29 09:58:32.478647 2023] [fcgid:warn] [pid 21316:tid 1352] [client ::1:58092] mod_fcgid: read timeout from pipe, referer: http://localhost:10004/wp-admin/
+[Tue Aug 29 09:58:32.478647 2023] [core:error] [pid 21316:tid 1352] [client ::1:58092] End of script output before headers: admin-ajax.php, referer: http://localhost:10004/wp-admin/
+[Tue Aug 29 09:59:32.487635 2023] [fcgid:warn] [pid 21316:tid 1352] [client ::1:58115] mod_fcgid: read timeout from pipe, referer: http://localhost:10004/wp-admin/
+[Tue Aug 29 09:59:32.487635 2023] [core:error] [pid 21316:tid 1352] [client ::1:58115] End of script output before headers: admin-ajax.php, referer: http://localhost:10004/wp-admin/
+[Tue Aug 29 10:50:21.579588 2023] [fcgid:warn] [pid 21316:tid 1360] [client ::1:62347] mod_fcgid: read timeout from pipe
+[Tue Aug 29 10:50:21.579588 2023] [core:error] [pid 21316:tid 1360] [client ::1:62347] End of script output before headers: wp-cron.php
+[Wed Aug 30 06:22:25.059471 2023] [fcgid:warn] [pid 21316:tid 1360] [client ::1:58075] mod_fcgid: read timeout from pipe, referer: http://localhost:10004/wp-admin/post.php?post=19&action=edit
+[Wed Aug 30 06:22:25.059471 2023] [core:error] [pid 21316:tid 1360] [client ::1:58075] End of script output before headers: index.php, referer: http://localhost:10004/wp-admin/post.php?post=19&action=edit
+[Wed Aug 30 06:22:25.154516 2023] [fcgid:warn] [pid 21316:tid 1352] [client ::1:58076] mod_fcgid: read timeout from pipe, referer: http://localhost:10004/wp-admin/post.php?post=19&action=edit
+[Wed Aug 30 06:22:25.154516 2023] [core:error] [pid 21316:tid 1352] [client ::1:58076] End of script output before headers: index.php, referer: http://localhost:10004/wp-admin/post.php?post=19&action=edit
+[Wed Aug 30 06:22:25.154516 2023] [fcgid:warn] [pid 21316:tid 1364] [client ::1:58057] mod_fcgid: read timeout from pipe, referer: http://localhost:10004/wp-admin/post.php?post=19&action=edit
+[Wed Aug 30 06:22:25.154516 2023] [core:error] [pid 21316:tid 1364] [client ::1:58057] End of script output before headers: index.php, referer: http://localhost:10004/wp-admin/post.php?post=19&action=edit
+[Wed Aug 30 06:22:25.216810 2023] [fcgid:warn] [pid 21316:tid 1356] [client ::1:58074] mod_fcgid: read timeout from pipe, referer: http://localhost:10004/wp-admin/post.php?post=19&action=edit
+[Wed Aug 30 06:22:25.216810 2023] [core:error] [pid 21316:tid 1356] [client ::1:58074] End of script output before headers: index.php, referer: http://localhost:10004/wp-admin/post.php?post=19&action=edit
+[Wed Aug 30 06:22:26.288569 2023] [fcgid:warn] [pid 21316:tid 1348] [client ::1:58045] mod_fcgid: read timeout from pipe, referer: http://localhost:10004/wp-admin/post.php?post=19&action=edit
+[Wed Aug 30 06:22:26.288569 2023] [core:error] [pid 21316:tid 1348] [client ::1:58045] End of script output before headers: index.php, referer: http://localhost:10004/wp-admin/post.php?post=19&action=edit
+[Wed Aug 30 06:22:26.332561 2023] [fcgid:warn] [pid 21316:tid 1344] [client ::1:58077] mod_fcgid: read timeout from pipe, referer: http://localhost:10004/wp-admin/post.php?post=19&action=edit
+[Wed Aug 30 06:22:26.332561 2023] [core:error] [pid 21316:tid 1344] [client ::1:58077] End of script output before headers: index.php, referer: http://localhost:10004/wp-admin/post.php?post=19&action=edit
+[Wed Aug 30 06:22:29.583143 2023] [fcgid:warn] [pid 21316:tid 1340] [client ::1:58161] mod_fcgid: read timeout from pipe, referer: http://localhost:10004/wp-admin/post.php?post=19&action=edit
+[Wed Aug 30 06:22:29.583200 2023] [core:error] [pid 21316:tid 1340] [client ::1:58161] End of script output before headers: index.php, referer: http://localhost:10004/wp-admin/post.php?post=19&action=edit
+[Wed Aug 30 08:12:06.686738 2023] [fcgid:warn] [pid 21316:tid 1352] [client ::1:54450] mod_fcgid: read timeout from pipe, referer: http://localhost:10004/wp-admin/admin.php?page=secupress_modules&module=sensitive-data
+[Wed Aug 30 08:12:06.686738 2023] [core:error] [pid 21316:tid 1352] [client ::1:54450] End of script output before headers: options.php, referer: http://localhost:10004/wp-admin/admin.php?page=secupress_modules&module=sensitive-data
+[Wed Aug 30 08:12:28.407834 2023] [autoindex:error] [pid 21316:tid 1352] [client ::1:54668] AH01276: Cannot serve directory C:/Users/raven/Local Sites/comfly/app/public/wp-content/uploads/: No matching DirectoryIndex (index.html,index.php,index.xhtml,index.htm) found, and server-generated directory index forbidden by Options directive
+[Wed Aug 30 08:27:23.079836 2023] [fcgid:warn] [pid 21316:tid 1360] [client ::1:56788] mod_fcgid: read timeout from pipe, referer: http://localhost:10004/wp-admin/update-core.php
+[Wed Aug 30 08:27:23.079836 2023] [fcgid:warn] [pid 21316:tid 1360] (138)timed out: [client ::1:56788] mod_fcgid: ap_pass_brigade failed in handle_request_ipc function, referer: http://localhost:10004/wp-admin/update-core.php
+[Wed Aug 30 09:53:02.213138 2023] [fcgid:warn] [pid 21316:tid 1340] [client ::1:58483] mod_fcgid: read timeout from pipe, referer: http://localhost:10004/wp-admin/admin.php?page=secupress_modules&module=users-login
+[Wed Aug 30 09:53:02.213138 2023] [core:error] [pid 21316:tid 1340] [client ::1:58483] End of script output before headers: admin-ajax.php, referer: http://localhost:10004/wp-admin/admin.php?page=secupress_modules&module=users-login
+[Wed Aug 30 09:53:08.617644 2023] [fcgid:warn] [pid 21316:tid 1344] [client ::1:58491] mod_fcgid: read timeout from pipe, referer: http://localhost:10004/wp-admin/admin.php?page=secupress_modules&module=users-login
+[Wed Aug 30 09:53:08.617644 2023] [core:error] [pid 21316:tid 1344] [client ::1:58491] End of script output before headers: options.php, referer: http://localhost:10004/wp-admin/admin.php?page=secupress_modules&module=users-login
+[Wed Aug 30 09:53:14.979594 2023] [fcgid:warn] [pid 21316:tid 1348] [client ::1:58500] mod_fcgid: read timeout from pipe, referer: http://localhost:10004/wp-admin/admin.php?page=secupress_scanners&module&step=1
+[Wed Aug 30 09:53:14.979594 2023] [core:error] [pid 21316:tid 1348] [client ::1:58500] End of script output before headers: admin-ajax.php, referer: http://localhost:10004/wp-admin/admin.php?page=secupress_scanners&module&step=1
